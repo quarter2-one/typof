@@ -1,0 +1,22 @@
+{
+  "name": "typof",
+  "version": "1.0.0",
+  "description": "Type checking.",
+  "main": "typof.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test"
+  },
+  "keywords": [
+    "type",
+    "type-check",
+    "typeof"
+  ],
+  "author": "Richard J. Glanvill <thedecimalspace@gmail.com> (thedecimal.space)",
+  "license": "ISC",
+  "devDependencies": {
+    "taste-test": "^0.1.1"
+  }
+}
